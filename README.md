@@ -1,3 +1,16 @@
+##### ----------------------------
+
+OnlineGames
+
+Tienda de venta de videojuegos digitales; cuenta con catalogo, carrito de compras y pasarela de pago:
+Para los adinisrtadores, se entrea un dashboard que cuenta con el registro de; pesonal, productos, vista de las ventas entreo otros.
+
+![1](https://github.com/user-attachments/assets/531b5ab4-841a-453b-a1fa-bc16259b14ff)
+![2](https://github.com/user-attachments/assets/69c00f69-7385-4735-adf5-4c90c96b1000)
+![3](https://github.com/user-attachments/assets/06d45868-3457-4371-824e-d9b38a9e871b)
+
+##### ----------------------------
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
@@ -60,3 +73,8 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+
+
+
