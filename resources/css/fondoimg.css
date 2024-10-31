@@ -1,0 +1,38 @@
+header {
+    width: 100%;
+    height: 500px;
+    background-image: url(../img/RE4R.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    overflow: hidden;
+    color: #fff;
+    text-align: center;
+}
+
+.dos {
+    width: 100%;
+    height: 500px;
+    background-image: url(../img/DBD\ RE\ 2.JPG);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    overflow: hidden;
+    color: #fff;
+    text-align: center;
+}
+
+.tres {
+    width: 100%;
+    height: 500px;
+    background: url('https://wallpapercave.com/wp/wp11842360.jpg');
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    overflow: hidden;
+    color: #fff;
+    text-align: center;
+}
